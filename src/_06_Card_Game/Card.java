@@ -1,5 +1,8 @@
 package _06_Card_Game;
 
+import _06_Card_Game.CardDealer.Rank;
+import _06_Card_Game.CardDealer.Suit;
+
 public class Card {
 
     private final Rank rank;
